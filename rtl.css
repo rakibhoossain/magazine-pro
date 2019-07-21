@@ -1,0 +1,175 @@
+/*
+ * Theme Name: Magazine Pro
+ *
+ * Adding support for languages written in a Right To Left (RTL) direction is easy -
+ * it's just a matter of overwriting all the horizontal positioning attributes
+ * of your CSS stylesheet in a separate stylesheet file named rtl.css.
+ *
+ * https://codex.wordpress.org/Right-to-Left_Language_Support
+ */
+
+
+/*
+====================================
+=
+= RTL direction
+=
+==========================
+*/
+
+body.rtl {
+
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+
+/*
+====================================
+=
+= Small styles
+=
+==========================
+*/
+
+
+body.rtl #toTop {
+
+	left: 10px;
+	right: auto;
+}
+
+.owl-carousel.owl-rtl {
+
+    direction: rtl; 
+}
+
+.owl-carousel.owl-rtl .owl-item {
+
+    float: right; 
+}
+
+/*
+====================================
+=
+= Header styles
+=
+==========================
+*/
+
+
+body.rtl .header-search-container form {
+
+	right: auto;
+}
+
+
+/*
+====================================
+=
+= Banner styles
+=
+==========================
+*/
+
+
+.cm_banner-five .gutter-right .right-content-holder .custom_row .col:first-child {
+
+	padding-right: 15px;
+}
+
+.cm_banner-five .gutter-left {
+
+	padding-right: 15px;
+}
+
+.cm_banner-five .gutter-right {
+
+	padding-left: 15px;
+}
+
+
+/*
+=================================
+=
+= RTL Responsive
+=
+==========================
+*/ 
+
+@media ( max-width: 991px ) {
+
+
+	/* banner */
+
+	.cm_banner-five .gutter-left {
+
+		padding-left: 15px;
+		padding-right: 15px;
+		
+	}
+
+	.cm_banner-five .gutter-left .card {
+
+		margin-left: 0;
+    	margin-right: 0;
+	}
+
+	.cm_banner-five .gutter-right {
+
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+
+	.cm_banner-five .gutter-right .right-content-holder .custom_row .col:first-child .post_thumb {
+
+		margin-right: 0;
+	}
+
+	.cm_banner-five .gutter-right .right-content-holder .custom_row .col:nth-child(3) .post_thumb {
+
+		margin-right: 0;
+	}
+
+	.cm_banner-five .gutter-right .right-content-holder .custom_row .col:nth-child(4) .post_thumb {
+
+		margin-left: 0;
+	}
+
+
+}
+
+
+@media ( max-width: 576px ) { 
+
+	
+	/* banner */
+
+	.cm_banner-five .gutter-right .right-content-holder .custom_row .col:nth-child(2),
+	.cm_banner-five .gutter-right .right-content-holder .custom_row .col:nth-child(4) {
+
+		padding-right: 15px;
+	}
+	
+	.cm_banner-five .gutter-right .right-content-holder .custom_row .col:nth-child(1),
+	.cm_banner-five .gutter-right .right-content-holder .custom_row .col:nth-child(3) {
+
+		padding-left: 15px;
+	}
+
+	.cm_banner-five .gutter-right .right-content-holder .custom_row .col:nth-child(3) .post_thumb,
+	.cm_banner-five .gutter-right .right-content-holder .custom_row .col:first-child .post_thumb {
+
+		margin-left: 0;
+	}
+
+	.cm_banner-five .gutter-right .right-content-holder .custom_row .col:nth-child(2) .post_thumb,
+	.cm_banner-five .gutter-right .right-content-holder .custom_row .col:nth-child(4) .post_thumb {
+
+		margin-right: 0;
+	}
+}
+
+
+
+

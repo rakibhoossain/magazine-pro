@@ -1,0 +1,1193 @@
+# Copyright (C) 2019 magazine_pro
+# This file is distributed under the same license as the magazine_pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: magazine_pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:30
+msgid "404"
+msgstr ""
+
+#: 404.php:31
+msgid "Page Not Found !"
+msgstr ""
+
+#: 404.php:35
+msgid "It looks like nothing was found at this location. Try searching below."
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/class-magazine_pro.php:72
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/class-magazine_pro.php:73
+msgid "Top Header Menu"
+msgstr ""
+
+#: inc/class-magazine_pro.php:74
+msgid "Bottom Footer Menu"
+msgstr ""
+
+#: inc/class-magazine_pro.php:346
+msgid "Type Here"
+msgstr ""
+
+#: inc/class-magazine_pro.php:346
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:62
+msgid "Home Customization"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:63
+msgid "Magazine Pro Home Page Customization. Set Options For Home Page Customization."
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:72
+msgid "Theme Customization"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:73
+msgid "Magazine Pro Customization. Set Options For Theme Customization."
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:82
+msgid "Color Customization"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:83
+msgid "Magazine Pro Color Customization. Set Colors For Theme Color Customization."
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:101
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:103
+msgid "Site Background"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:116
+msgid "Magazine Pro Pro"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:117
+msgid "Get Pro"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:128
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:137
+msgid "Ticker News"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:138
+msgid "Set and select options to configure ticker news section."
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:147
+msgid "Banner/Slider"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:148
+msgid "Set and select options to configure banner/slider section."
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:157
+msgid "Homepage Sidebar"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:166
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:175
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:184
+msgid "Blog Page"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:193
+msgid "Archive Page"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:202
+msgid "Search Page"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:211
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:220
+msgid "Global Post Meta"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:221
+msgid "These options lets you control post metas globally i.e. once you change option here, this will be reflected on all pages."
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:230
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:231
+msgid "Post Excerpt is the number of words of content which are displayed instead of full content. You can control the number of words to be displyed in this section."
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:240
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:249
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:258, inc/widget/class-magazine_pro-widget-init.php:49
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:268
+msgid "Site Image"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:277
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:288, inc/customizer/class-magazine_pro-customize.php:1639
+msgid "Woocommerce Sidebar Position"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:936
+msgid "Select Site Layout"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:940
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:941
+msgid "Fullwidth Layout"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:950
+msgid "Enable Ticker News"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:951
+msgid "This option will be effective only for the ticker news section that is displayed below the header section."
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:961
+msgid "Ticker News: Section Title"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:973
+msgid "Ticker News: Categories"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:985
+msgid "Ticker News: Posts Number"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:996
+msgid "Enable Banner/Slider"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1006, inc/customizer/class-magazine_pro-customize.php:1164, inc/customizer/class-magazine_pro-customize.php:1218, inc/customizer/class-magazine_pro-customize.php:1272, inc/customizer/class-magazine_pro-customize.php:1327, inc/customizer/class-magazine_pro-customize.php:1419, inc/customizer/class-magazine_pro-customize.php:1463
+msgid "Enable Post Author Meta"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1016, inc/customizer/class-magazine_pro-customize.php:1174, inc/customizer/class-magazine_pro-customize.php:1228, inc/customizer/class-magazine_pro-customize.php:1282, inc/customizer/class-magazine_pro-customize.php:1337, inc/customizer/class-magazine_pro-customize.php:1430, inc/customizer/class-magazine_pro-customize.php:1473
+msgid "Enable Posted Date Meta"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1026, inc/customizer/class-magazine_pro-customize.php:1184, inc/customizer/class-magazine_pro-customize.php:1238, inc/customizer/class-magazine_pro-customize.php:1292, inc/customizer/class-magazine_pro-customize.php:1347, inc/customizer/class-magazine_pro-customize.php:1441, inc/customizer/class-magazine_pro-customize.php:1483
+msgid "Enable Post Comments Number Meta"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1036, inc/customizer/class-magazine_pro-customize.php:1194, inc/customizer/class-magazine_pro-customize.php:1248, inc/customizer/class-magazine_pro-customize.php:1302, inc/customizer/class-magazine_pro-customize.php:1452, inc/customizer/class-magazine_pro-customize.php:1493
+msgid "Enable Post Categories Meta"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1047
+msgid "Banner/Slider Post Categories"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1059
+msgid "Banner/Slider Posts Number"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1072, inc/metabox/class-magazine_pro-post-meta.php:40
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1084
+msgid "Enable Top Header"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1095
+msgid "Enable Home Button"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1105
+msgid "Enable Search Button"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1117
+msgid "Select Header Layout"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1131
+msgid "Header Overlay Color"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1144
+msgid "Enable Scroll Top Button"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1154
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1206, inc/customizer/class-magazine_pro-customize.php:1260, inc/customizer/class-magazine_pro-customize.php:1314
+msgid "Select Sidebar Position"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1357, inc/customizer/class-magazine_pro-customize.php:1503
+msgid "Enable Post Tags Meta"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1367
+msgid "Enable Featured Image"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1377
+msgid "Enable Author Section"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1387
+msgid "Enable Related Posts Section"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1397
+msgid "Related Posts Section Title"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1408
+msgid "Related Section Posts Number"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1513
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1523
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1533
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1543
+msgid "Instagram Link"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1553
+msgid "Youtube Link"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1563
+msgid "VK Link"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1573
+msgid "Linkedin Link"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1583
+msgid "Vimeo Link"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1593
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1603
+msgid "Enable Sticky Sidebar"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1614
+msgid "Enable Lazy Load"
+msgstr ""
+
+#: inc/customizer/class-magazine_pro-customize.php:1626
+msgid "Primary Theme Color"
+msgstr ""
+
+#: inc/helper-functions.php:63
+msgid "Breaking News"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: inc/helper-functions.php:169
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: inc/helper-functions.php:176
+msgctxt "Muli font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/helper-functions.php:357
+msgid "Themebeez Toolkit"
+msgstr ""
+
+#: inc/helper-functions.php:362
+msgid "Universal Google AdSense And Ads Manager"
+msgstr ""
+
+#: inc/metabox/class-magazine_pro-post-meta.php:61
+msgid "Right"
+msgstr ""
+
+#: inc/metabox/class-magazine_pro-post-meta.php:62
+msgid "Left"
+msgstr ""
+
+#: inc/metabox/class-magazine_pro-post-meta.php:63
+msgid "None"
+msgstr ""
+
+#: inc/metabox/class-magazine_pro-post-meta.php:75, inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:141, inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:146, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:198, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:203, inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:188, inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:193, inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:193, inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:198, inc/widget/news-widgets/class-magazine_pro-news-widget-three.php:155, inc/widget/news-widgets/class-magazine_pro-news-widget-three.php:160, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:151, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:156
+msgid "selected"
+msgstr ""
+
+#. translators: %1$s: span i tag open, %2$s: span i tag close, %3$s: post author.
+#: inc/theme-functions.php:122
+msgctxt "post author"
+msgid "%1$s %2$s %3$s"
+msgstr ""
+
+#. translators: %1$s: i tag open, %2$s: i tag close, %3$s: post date.
+#: inc/theme-functions.php:138
+msgctxt "post date"
+msgid "%1$s %2$s %3$s"
+msgstr ""
+
+#: inc/theme-hooks.php:180
+msgid "Facebook"
+msgstr ""
+
+#: inc/theme-hooks.php:186
+msgid "Twitter"
+msgstr ""
+
+#: inc/theme-hooks.php:192
+msgid "Instagram"
+msgstr ""
+
+#: inc/theme-hooks.php:198
+msgid "Youtube"
+msgstr ""
+
+#: inc/theme-hooks.php:204
+msgid "VK"
+msgstr ""
+
+#: inc/theme-hooks.php:210
+msgid "Linkedin"
+msgstr ""
+
+#: inc/theme-hooks.php:216
+msgid "Vimeo"
+msgstr ""
+
+#: inc/theme-hooks.php:325, single.php:45
+msgid "Prev"
+msgstr ""
+
+#: inc/theme-hooks.php:326, single.php:46
+msgid "Next"
+msgstr ""
+
+#. translators: 1: Copyright Text 2: Theme name, 3: Theme author.
+#: inc/theme-hooks.php:570
+msgid "%1$s %2$s by %3$s"
+msgstr ""
+
+#: inc/theme-hooks.php:570, inc/theme-hooks.php:573
+msgid "Themebeez"
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: inc/theme-hooks.php:573
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: inc/widget/class-magazine_pro-widget-init.php:51, inc/widget/class-magazine_pro-widget-init.php:61, inc/widget/class-magazine_pro-widget-init.php:71, inc/widget/class-magazine_pro-widget-init.php:81, inc/widget/class-magazine_pro-widget-init.php:91, inc/widget/class-magazine_pro-widget-init.php:132
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widget/class-magazine_pro-widget-init.php:59
+msgid "Footer Left"
+msgstr ""
+
+#: inc/widget/class-magazine_pro-widget-init.php:69
+msgid "Footer Middle"
+msgstr ""
+
+#: inc/widget/class-magazine_pro-widget-init.php:79
+msgid "Footer Right"
+msgstr ""
+
+#: inc/widget/class-magazine_pro-widget-init.php:89
+msgid "Header Advertisement"
+msgstr ""
+
+#: inc/widget/class-magazine_pro-widget-init.php:99
+msgid "Home Top News Area"
+msgstr ""
+
+#: inc/widget/class-magazine_pro-widget-init.php:101, inc/widget/class-magazine_pro-widget-init.php:121
+msgid "Add Fullwidth News Widgets Here."
+msgstr ""
+
+#: inc/widget/class-magazine_pro-widget-init.php:109
+msgid "Home Middle News Area"
+msgstr ""
+
+#: inc/widget/class-magazine_pro-widget-init.php:111
+msgid "Add Halfwidth News Widgets Here."
+msgstr ""
+
+#: inc/widget/class-magazine_pro-widget-init.php:119
+msgid "Home Bottom News Area"
+msgstr ""
+
+#: inc/widget/class-magazine_pro-widget-init.php:130
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:9
+msgid "CM Half: News Widget 3"
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:11, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:11, inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:11, inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:11, inc/widget/news-widgets/class-magazine_pro-news-widget-three.php:11, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:11
+msgid "Displays posts of selected category."
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:119, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:176, inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:166, inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:171, inc/widget/news-widgets/class-magazine_pro-news-widget-three.php:133, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:129, inc/widget/sidebar-footer-widgets/class-magazine_pro-author-widget.php:96, inc/widget/sidebar-footer-widgets/class-magazine_pro-post-widget.php:123, inc/widget/sidebar-footer-widgets/class-magazine_pro-social-widget.php:103
+msgid "At frontend this widget looks like as below:"
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:125, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:182, inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:172, inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:177, inc/widget/news-widgets/class-magazine_pro-news-widget-three.php:139, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:135, inc/widget/sidebar-footer-widgets/class-magazine_pro-author-widget.php:102, inc/widget/sidebar-footer-widgets/class-magazine_pro-post-widget.php:129
+msgid "Title"
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:131, inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:141, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:188, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:198, inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:188, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:151
+msgid "Select Category"
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:141, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:198, inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:188, inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:193, inc/widget/news-widgets/class-magazine_pro-news-widget-three.php:155, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:151
+msgid "none"
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:152, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:209, inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:199, inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:204, inc/widget/news-widgets/class-magazine_pro-news-widget-three.php:166, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:162
+msgid "If no category is selected, then recent posts will be displayed."
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:157, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:214, inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:204, inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:209, inc/widget/news-widgets/class-magazine_pro-news-widget-three.php:171, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:167
+msgid "No of Posts"
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:164, inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:171, inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:178, inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:185, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:221, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:228, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:235, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:242, inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:211, inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:218, inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:225, inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:232, inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:216, inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:223, inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:230, inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:237, inc/widget/news-widgets/class-magazine_pro-news-widget-three.php:178, inc/widget/news-widgets/class-magazine_pro-news-widget-three.php:185, inc/widget/news-widgets/class-magazine_pro-news-widget-three.php:192, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:174, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:181, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:188, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:195, inc/widget/sidebar-footer-widgets/class-magazine_pro-post-widget.php:167, inc/widget/sidebar-footer-widgets/class-magazine_pro-post-widget.php:174, inc/widget/sidebar-footer-widgets/class-magazine_pro-post-widget.php:181
+msgid "checked"
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:165, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:222, inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:212, inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:217, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:175
+msgid "Show Post Categories"
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:172, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:229, inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:219, inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:224, inc/widget/news-widgets/class-magazine_pro-news-widget-three.php:179, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:182, inc/widget/sidebar-footer-widgets/class-magazine_pro-post-widget.php:168
+msgid "Show Post Author"
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:179, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:236, inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:226, inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:231, inc/widget/news-widgets/class-magazine_pro-news-widget-three.php:186, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:189, inc/widget/sidebar-footer-widgets/class-magazine_pro-post-widget.php:175
+msgid "Show Posted Date"
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-eleven.php:186, inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:243, inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:233, inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:238, inc/widget/news-widgets/class-magazine_pro-news-widget-three.php:193, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:196, inc/widget/sidebar-footer-widgets/class-magazine_pro-post-widget.php:182
+msgid "Show Post Comments Number"
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-nine.php:9
+msgid "CM Half: News Widget 2"
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:9
+msgid "CM Full: News Widget 1"
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-one.php:178, inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:183, inc/widget/news-widgets/class-magazine_pro-news-widget-three.php:145, inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:141
+msgid "Select Category: "
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:9
+msgid "CM Half: News Widget 6"
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-six.php:193, inc/widget/news-widgets/class-magazine_pro-news-widget-three.php:155
+msgid "Select Categories"
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-three.php:9
+msgid "CM Full: News Widget 3"
+msgstr ""
+
+#: inc/widget/news-widgets/class-magazine_pro-news-widget-two.php:9
+msgid "CM Full: News Widget 2"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-author-widget.php:9
+msgid "CM: Author Widget"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-author-widget.php:11
+msgid "Displays Brief Author Description."
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-author-widget.php:108
+msgid "Author Page"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-author-widget.php:115
+msgid "&mdash; Select Page &mdash;"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-author-widget.php:123
+msgid "Author Link Title"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-post-widget.php:9
+msgid "CM: Posts Widget"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-post-widget.php:11
+msgid "Displays Recent, Most Commented or Editor Picked Posts."
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-post-widget.php:136
+msgid "Type of Posts:"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-post-widget.php:141
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-post-widget.php:142
+msgid "Most Commented"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-post-widget.php:160
+msgid "No of Popular Posts"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-social-widget.php:9
+msgid "CM: Social Widget"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-social-widget.php:12
+msgid "Displays links to social sites."
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-social-widget.php:41
+msgid "Like"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-social-widget.php:48, inc/widget/sidebar-footer-widgets/class-magazine_pro-social-widget.php:55, inc/widget/sidebar-footer-widgets/class-magazine_pro-social-widget.php:69, inc/widget/sidebar-footer-widgets/class-magazine_pro-social-widget.php:76
+msgid "Follow"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-social-widget.php:62
+msgid "Connect"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-social-widget.php:109
+msgid "Title: "
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-social-widget.php:116
+msgid "Facebook Link:"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-social-widget.php:123
+msgid "Twitter Link:"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-social-widget.php:130
+msgid "Instagram Link:"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-social-widget.php:137
+msgid "linkedin Link:"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-social-widget.php:144
+msgid "Youtube Link:"
+msgstr ""
+
+#: inc/widget/sidebar-footer-widgets/class-magazine_pro-social-widget.php:151
+msgid "Pinterest Link:"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:221
+msgid "View your shopping cart"
+msgstr ""
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce/woocommerce-template-functions.php:225
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: search query.
+#: search.php:44
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-home.php:3, third-party/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22, template-parts/content-single.php:32
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:30
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: third-party/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: third-party/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: third-party/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: third-party/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#. translators: %s is the search query.
+#: third-party/breadcrumbs.php:270
+msgid "Search results for: %s"
+msgstr ""
+
+#. translators: %s is the page number.
+#: third-party/breadcrumbs.php:272
+msgid "Page %s"
+msgstr ""
+
+#. translators: %s is the page number.
+#: third-party/breadcrumbs.php:274
+msgid "Comment Page %s"
+msgstr ""
+
+#. translators: Minute archive title. %s is the minute time format.
+#: third-party/breadcrumbs.php:276
+msgid "Minute %s"
+msgstr ""
+
+#. translators: Weekly archive title. %s is the week date format.
+#: third-party/breadcrumbs.php:278
+msgid "Week %s"
+msgstr ""
+
+#: third-party/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: third-party/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: third-party/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: third-party/breadcrumbs.php:788, third-party/breadcrumbs.php:817, third-party/breadcrumbs.php:844, third-party/breadcrumbs.php:871, third-party/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: third-party/breadcrumbs.php:789, third-party/breadcrumbs.php:845, third-party/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: third-party/breadcrumbs.php:790, third-party/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: third-party/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: third-party/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: third-party/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:341
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: third-party/class-tgm-plugin-activation.php:347
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: third-party/class-tgm-plugin-activation.php:353
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: third-party/class-tgm-plugin-activation.php:359
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: third-party/class-tgm-plugin-activation.php:365
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: third-party/class-tgm-plugin-activation.php:371
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: third-party/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: third-party/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: third-party/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: third-party/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:393, third-party/class-tgm-plugin-activation.php:923, third-party/class-tgm-plugin-activation.php:2647, third-party/class-tgm-plugin-activation.php:3696
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:394, third-party/class-tgm-plugin-activation.php:3275
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:395, third-party/class-tgm-plugin-activation.php:3068
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: third-party/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: third-party/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: third-party/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:610
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:611
+msgid "Update Required"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:728
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:1030
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:1030, third-party/class-tgm-plugin-activation.php:1033
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:1033
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:1217, third-party/class-tgm-plugin-activation.php:3064
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: third-party/class-tgm-plugin-activation.php:2078
+msgid "TGMPA v%s"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2387
+msgid "Required"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2390
+msgid "Recommended"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2406
+msgid "WordPress Repository"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2409
+msgid "External Source"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2412
+msgid "Pre-Packaged"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2429
+msgid "Not Installed"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2433
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2435
+msgid "Active"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2441
+msgid "Required Update not Available"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2444
+msgid "Requires Update"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2447
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: third-party/class-tgm-plugin-activation.php:2456
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: third-party/class-tgm-plugin-activation.php:2502
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: third-party/class-tgm-plugin-activation.php:2506
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: third-party/class-tgm-plugin-activation.php:2510
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: third-party/class-tgm-plugin-activation.php:2514
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: third-party/class-tgm-plugin-activation.php:2596
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2604
+msgid "Installed version:"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2612
+msgid "Minimum required version:"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2624
+msgid "Available version:"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2647
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2661
+msgid "Plugin"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2662
+msgid "Source"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2663
+msgid "Type"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2667
+msgid "Version"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2668
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: third-party/class-tgm-plugin-activation.php:2717
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: third-party/class-tgm-plugin-activation.php:2722
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: third-party/class-tgm-plugin-activation.php:2728
+msgid "Activate %2$s"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2800
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2833
+msgid "Install"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2839
+msgid "Update"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2842
+msgid "Activate"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2873
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2875
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2916
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:2918
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:3024
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:3050
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:3274
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: third-party/class-tgm-plugin-activation.php:3614
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: third-party/class-tgm-plugin-activation.php:3617
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: third-party/class-tgm-plugin-activation.php:3619
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:3623
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: third-party/class-tgm-plugin-activation.php:3625
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:3625, third-party/class-tgm-plugin-activation.php:3633
+msgid "Show Details"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:3625, third-party/class-tgm-plugin-activation.php:3633
+msgid "Hide Details"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:3626
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: third-party/class-tgm-plugin-activation.php:3628
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:3631
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: third-party/class-tgm-plugin-activation.php:3633
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: third-party/class-tgm-plugin-activation.php:3634
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: third-party/class-tgm-plugin-activation.php:3636
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
