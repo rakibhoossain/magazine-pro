@@ -35,7 +35,7 @@ class Magazine_Pro_News_Widget_Two extends WP_Widget {
 		);
 
         if( $post_cat != 'none' ) {
-            $post_args['category_name'] = sanitize_text_field( $post_cat );
+            $post_args['category__in'] = $post_cat;
         }
 
         if( absint( $post_no ) > 0 ) {
