@@ -1738,19 +1738,11 @@ if( ! class_exists( 'Magazine_Pro_Customize' ) ) {
 		 * @return void
 		 */
 		function get_category_taxonomies() {
-
-			$taxonomy = 'category';
-
-			$terms = get_terms( $taxonomy );
-
-			$blog_cat = array();
-
-			foreach( $terms as $term ) {
-
-				$blog_cat[$term->slug] = $term->name;
-			}
-
-			return $blog_cat;
+		  $cats    = array();
+		  foreach ( get_categories() as $categories => $category ) {
+		    $cats[ $category->term_id ] = $category->name;
+		  }
+		  return $cats;
 		}
 
 		/**
