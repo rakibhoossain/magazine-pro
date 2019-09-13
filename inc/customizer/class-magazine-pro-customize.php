@@ -1739,12 +1739,11 @@ if( ! class_exists( 'Magazine_Pro_Customize' ) ) {
 		 */
 		function get_category_taxonomies() {
 		  $cats    = array();
-		  foreach ( get_categories() as $categories => $category ) {
-		    $cats[ $category->term_id ] = $category->name;
+		  foreach ( get_categories() as $categories => $cat ) {
+		    $cats[ $cat->term_id ] = $cat->name;
 		  }
 		  return $cats;
 		}
-
 		/**
 		 * Function to load layout choices for homepage sidebar.
 		 *

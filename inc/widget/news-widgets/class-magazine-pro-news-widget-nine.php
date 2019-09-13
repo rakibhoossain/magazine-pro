@@ -200,7 +200,7 @@ class Magazine_Pro_News_Widget_Nine extends WP_Widget {
                 if( !empty( $categories ) ) {
                     foreach( $categories as $cat ) {
                         ?>
-                        <option value="<?php echo esc_attr( $cat->slug ); ?>" <?php if( $instance['post_cat'] == $cat->slug ) { esc_attr_e( 'selected', 'magazine-pro' ); } ?>><?php echo esc_html( $cat->name ); ?></option>
+                        <option value="<?php echo esc_attr( $cat->term_id ); ?>" <?php if( $instance['post_cat'] == $cat->term_id ) { esc_attr_e( 'selected', 'magazine-pro' ); } ?>><?php echo esc_html( $cat->name ); ?></option>
                         <?php
                     }
                 }

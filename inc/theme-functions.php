@@ -74,7 +74,7 @@ if( ! function_exists( 'magazine_pro_banner_query' ) ) {
 		}
 
 		if( !empty( $banner_post_cats ) ) {
-		    $banner_args['cat'] = $banner_post_cats;
+		    $banner_args['category__in'] = $banner_post_cats;
 		}  
 
 		$banner_query = new WP_Query( $banner_args );
