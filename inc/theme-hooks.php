@@ -241,7 +241,7 @@ if( ! function_exists( 'magazine_pro_ticker_news_action' ) ) :
  		);
 
  		if( !empty( $news_ticker_post_cats ) ) {
- 			$news_ticker_args['cat'] = $news_ticker_post_cats;
+ 			$news_ticker_args['category__in'] = $news_ticker_post_cats;
  		}
 
  		if( absint( $news_ticker_post_nos ) > 0 ) {
