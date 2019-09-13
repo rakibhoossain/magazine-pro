@@ -567,10 +567,10 @@ if( ! function_exists( 'magazine_pro_copyright_action' ) ) :
             		<?php
                     if( !empty( $copyright_text ) ) {
                         /* translators: 1: Copyright Text 2: Theme name, 3: Theme author. */
-                        printf( esc_html__( '%1$s %2$s by %3$s','magazine-pro' ), $copyright_text, get_bloginfo( 'name' ), '<a href="'. esc_url( 'https://themebeez.com' ) . '">' . esc_html__( 'Themebeez', 'magazine-pro' ) . '</a>' );
+                        printf( esc_html__( '%1$s %2$s by %3$s','magazine-pro' ), $copyright_text, get_bloginfo( 'name' ), '<a href="'. esc_url( 'https://github.com/rakibhoossain' ) . '">' . esc_html__( 'Rakib Hossain', 'magazine-pro' ) . '</a>' );
                     } else {
                         /* translators: 1: Theme name, 2: Theme author. */
-                        printf( esc_html__( '%1$s by %2$s', 'magazine-pro' ), get_bloginfo( 'name' ), '<a href="'. esc_url( 'https://themebeez.com' ) . '">' . esc_html__( 'Themebeez', 'magazine-pro' ) . '</a>' );
+                        printf( esc_html__( '%1$s by %2$s', 'magazine-pro' ), get_bloginfo( 'name' ), '<a href="'. esc_url( 'https://github.com/rakibhoossain' ) . '">' . esc_html__( 'Rakib Hossain', 'magazine-pro' ) . '</a>' );
                     }
                     ?>
             	</p>
