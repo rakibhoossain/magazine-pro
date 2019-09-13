@@ -344,28 +344,23 @@ if( ! function_exists( 'magazine_pro_thumbnail_class' ) ) {
 // /*
 //  * Hook - Plugin Recommendation
 //  */
-// if ( ! function_exists( 'magazine_pro_recommended_plugins' ) ) :
-//     /**
-//      * Recommend plugins.
-//      *
-//      * @since 1.0.0
-//      */
-//     function magazine_pro_recommended_plugins() {
+if ( ! function_exists( 'magazine_pro_recommended_plugins' ) ) :
+    /**
+     * Recommend plugins.
+     *
+     * @since 1.0.0
+     */
+    function magazine_pro_recommended_plugins() {
 
-//         $plugins = array(
-//             array(
-//                 'name'     => esc_html__( 'Themebeez Toolkit', 'magazine-pro' ),
-//                 'slug'     => 'themebeez-toolkit',
-//                 'required' => false,
-//             ),
-//             array(
-//                 'name'     => esc_html__( 'Universal Google AdSense And Ads Manager', 'magazine-pro' ),
-//                 'slug'     => 'universal-google-adsense-and-ads-manager',
-//                 'required' => false,
-//             ),
-//         );
+        $plugins = array(
+            array(
+                'name'     => esc_html__( 'Universal Google AdSense And Ads Manager', 'magazine-pro' ),
+                'slug'     => 'universal-google-adsense-and-ads-manager',
+                'required' => false,
+            ),
+        );
 
-//         tgmpa( $plugins );
-//     }
-// endif;
-// add_action( 'tgmpa_register', 'magazine_pro_recommended_plugins' );
+        tgmpa( $plugins );
+    }
+endif;
+add_action( 'tgmpa_register', 'magazine_pro_recommended_plugins' );

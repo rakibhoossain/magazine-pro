@@ -1719,13 +1719,13 @@ if( ! class_exists( 'Magazine_Pro_Customize' ) ) {
 
 			wp_enqueue_style( 'chosen', get_template_directory_uri() . '/admin/css/chosen.css' );
 
-			wp_enqueue_style( 'magazine_pro-upgrade', get_template_directory_uri() . '/inc/customizer/upgrade-to-pro/upgrade.css' );
+			// wp_enqueue_style( 'magazine_pro-upgrade', get_template_directory_uri() . '/inc/customizer/upgrade-to-pro/upgrade.css' );
 
 			wp_enqueue_style( 'magazine_pro-customizer-style', get_template_directory_uri() . '/admin/css/customizer-style.css' );
 
 			wp_enqueue_script( 'chosen', get_template_directory_uri() . '/admin/js/chosen.js', array( 'jquery' ), MAGAZINE_PRO_VERSION, true );
 
-			wp_enqueue_script( 'magazine_pro-upgrade', get_template_directory_uri() . '/inc/customizer/upgrade-to-pro/upgrade.js', array( 'jquery' ), MAGAZINE_PRO_VERSION, true );
+			// wp_enqueue_script( 'magazine_pro-upgrade', get_template_directory_uri() . '/inc/customizer/upgrade-to-pro/upgrade.js', array( 'jquery' ), MAGAZINE_PRO_VERSION, true );
 
 			wp_enqueue_script( 'magazine_pro-customizer-script', get_template_directory_uri() . '/admin/js/customizer-script.js', array( 'jquery' ), MAGAZINE_PRO_VERSION, true );
 		}

@@ -284,7 +284,7 @@ class Magazine_Pro {
 		// Load breadcrumb class
 		require get_template_directory() . '/third-party/breadcrumbs.php';
 		// Load class for plugin recommendation
-//		require get_template_directory() . '/third-party/class-tgm-plugin-activation.php';
+		require get_template_directory() . '/third-party/class-tgm-plugin-activation.php';
 		// Load woocommerce
 		if( class_exists( 'WooCommerce' ) ) {
 			require get_template_directory() . '/inc/woocommerce/class-magazine-pro-woocommerce.php';
